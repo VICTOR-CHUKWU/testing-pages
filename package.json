@@ -1,0 +1,22 @@
+{
+  "name": "testing-pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VICTOR-CHUKWU/testing-pages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VICTOR-CHUKWU/testing-pages/issues"
+  },
+  "homepage": "https://github.com/VICTOR-CHUKWU/testing-pages#readme",
+  "devDependencies": {
+    "jest": "^27.2.4"
+  }
+}
